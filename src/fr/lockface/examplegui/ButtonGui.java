@@ -69,7 +69,7 @@ public class ButtonGui extends AbstractSabotageGui {
             }
 
             // we update the inventory for the player so he is able to see the changes to his wool
-            // please not that in the 0 case, we return when the task is finished, because we must not update if it is
+            // please note that in the 0 case, we return when the task is finished, because we must not update if it is
             // finished (the inventory of the player is closed)
             updateInventoryPlayer(player);
         }
