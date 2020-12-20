@@ -2,5 +2,5 @@ name: ExampleGui
 version: 1.0.0
 author: Lockface77
 main: fr.lockface.examplegui.ExampleGui
-api-version: 1.15.2
+api-version: 1.15
 depend: ["ImpostorCraft"]
